@@ -1,6 +1,6 @@
 # HNFC Agent
 
-This repository provides the backend code for a fake news detection framework. This application is described in the article "Building a framework for fake news detection in the health domain".
+This repository provides the backend code for a fake news detection framework. This application is described in the article ["Building a framework for fake news detection in the health domain"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305362).
 
 ## Installation
 
@@ -47,9 +47,20 @@ Please see the LICENSE file for details. Downloading data indicates your accepta
 ```bibtex
 @article{martinez-rico_building_2024,
 	title = {Building a framework for fake news detection in the health domain},
+	volume = {19},
+	issn = {1932-6203},
+	url = {https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305362},
+	doi = {10.1371/journal.pone.0305362},
 	language = {en},
-	author = {Martinez-Rico, Juan R and Araujo, Lourdes and Martinez-Romo, Juan},
-	year = {2024}
+	number = {7},
+	urldate = {2025-01-11},
+	journal = {PLOS ONE},
+	author = {Martinez-Rico, Juan R. and Araujo, Lourdes and Martinez-Romo, Juan},
+	month = jul,
+	year = {2024},
+	note = {Publisher: Public Library of Science},
+	keywords = {Grammar, Graphs, Language, Linguistic morphology, Machine learning, Social networks, Syntax, Vaccination and immunization},
+	pages = {e0305362},
 }
 ```
 
